@@ -78,9 +78,11 @@
 بله، کلیک‌ها در پایگاه داده ذخیره شده و قابل فیلتر و مشاهده هستند.
 
 ---
+![alt text](./assets/jayconsoletools32.png)
+
 
 ## ⚙️ نصب و راه‌اندازی
 
 1. مخزن را دانلود یا کلون کنید:
 ```bash
-git clone https://github.com/jayarsiech/target-keywords.git
+git clone https://github.com/jayarsiech/jay-console-tools.git
